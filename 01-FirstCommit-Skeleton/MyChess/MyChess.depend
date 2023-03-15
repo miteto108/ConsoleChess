@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1678791039 source:d:\users\user\desktop\ooppojects\mychess\main.cpp
+	"Square.hpp"
+	"Pieces.hpp"
+	"Board.hpp"
+	<iostream>
+	<cmath>
+
+1678868981 d:\users\user\desktop\ooppojects\mychess\square.hpp
+	<iostream>
+	<vector>
+	<string>
+
+1678870290 d:\users\user\desktop\ooppojects\mychess\pieces.hpp
+	"Square.hpp"
+	"Board.hpp"
+
+1678869567 d:\users\user\desktop\ooppojects\mychess\board.hpp
+	"Square.hpp"
+	"Pieces.hpp"
+
